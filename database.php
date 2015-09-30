@@ -2,9 +2,9 @@
 	
 function connectDB() {
 	$mysql_host = "mysql12.000webhost.com";
-	$mysql_database = "a7385706_health";
-	$mysql_user = "a7385706_admin";
-	$mysql_password = "gateway4";
+	$mysql_database = "*****";
+	$mysql_user = "*****";
+	$mysql_password = "******";
 	$connection = mysqli_connect($mysql_host,$mysql_user,$mysql_password,$mysql_database);
 
 	// Check connection
