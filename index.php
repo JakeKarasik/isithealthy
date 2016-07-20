@@ -1,4 +1,5 @@
 <?php
+//comment
 require("healthCalc.php");
 require("database.php");
 
